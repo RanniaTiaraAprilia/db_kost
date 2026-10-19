@@ -1,0 +1,1 @@
+<aside class="sidebar"><div class="side-label">MENU UTAMA</div><a href="index.php">⌂ &nbsp; Beranda</a><a href="penyewa.php">♙ &nbsp; Data Penyewa</a><a href="sewa.php">▣ &nbsp; Data Sewa</a><a href="rekap.php">▤ &nbsp; Rekap Pembayaran</a><div class="sidebar-bottom">Rapi · Nyaman · Teratur</div></aside>

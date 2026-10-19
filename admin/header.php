@@ -1,0 +1,1 @@
+<header class="topbar"><div class="brand"><span class="brand-mark small">⌂</span><div><b>SISTEM INFORMASI KOST</b><small>Pengelolaan kost lebih praktis</small></div></div><div class="user-area">Halo, <?=htmlspecialchars($_SESSION["username"]??"Pengguna")?> <a class="logout" href="logout.php">Keluar</a></div></header>
